@@ -5,13 +5,13 @@
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
  * @package Astra Child
- * @since 24.05.2019
+ * @since 24.05.2022
  */
 
 /**
  * Define Constants
  */
-define( 'CHILD_THEME_ASTRA_CHILD_VERSION', '24.05.2019' );
+define( 'CHILD_THEME_ASTRA_CHILD_VERSION', '24.05.2022' );
 
 /**
  * Enqueue styles
